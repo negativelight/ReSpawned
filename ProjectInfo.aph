@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>243259937CEF1719E80F52FA73137C85C8B84094175D445F61EF57BAA96D4E49</Signature>
+  <Content>
+    <Project Guid="d9a5de6d-1c76-4c18-b49b-71d719aae862">
+      <DisplayName Value="ReSpawned"/>
+      <DetailName Value="The Death &amp; Resurrection Show"/>
+      <MainProjectGuid Value="7318ac12-d0e2-45f8-8729-dad0190bde36"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638469722750828080"/>
+      <PartitionHash Value="FCAC643A58E714DA88832ADB0D348773B87F114B44F24889C3B781E11B85E32F"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
